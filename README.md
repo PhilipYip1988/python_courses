@@ -15,4 +15,16 @@ The beginning of this course is excellent and is instructor led until day 37 and
 
 [Jose Portilla Udemy 2022 Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 
-[2018 Udemy Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+[Jose Portill Udemy 2018 Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+
+Make sure to take the 2022 version of this course as quite a number of developments have been made, particularly in the scipy library from 2018 and you will encounter some issues following the 2018 version of the course as it uses depreciated commands.
+
+[Jose Portill Udemy 2018 Interactive Python Dashboards with Plotly and Dash](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/)
+
+This course is from 2018 and does not include any contnet on plotly express which was released subsequently. The course gives a really good overview of the use of plotly graphs objects and dash. I made updated [notebooks](https://github.com/PhilipYip1988/plotly_udemy) while taking this course in 2022.
+
+Working on...
+
+[Jose Portilla Udemy 2019 PyTorch for Deep Learning with Python Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/)
+
+[Jose Portilla, Marcel Früh, Sergios Gatidis, Tobias Hepp Udemy 2021 Deep Learning with PyTorch for Medical Image Analysis](https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/)
